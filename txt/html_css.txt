@@ -13,5 +13,5 @@ local storage-локальное хранилище
 overlay - наложение
 shape - форма
 hexagon - шестиугольник
-
+overflow - переполнение
 
