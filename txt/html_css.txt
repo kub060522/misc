@@ -15,3 +15,9 @@ shape - форма
 hexagon - шестиугольник
 overflow - переполнение
 
+translate - переводить
+scale - шкала
+skew - перекос
+origin - источник
+
+rect - прямой
