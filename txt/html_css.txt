@@ -21,3 +21,6 @@ skew - перекос
 origin - источник
 
 rect - прямой
+
+shadow - тень
+property - свойство
