@@ -24,3 +24,8 @@ rect - прямой
 
 shadow - тень
 property - свойство
+
+SVG (Scalable Vector Graphics) - маштабируемая векторная графика
+PNG (portable network graphics) - портативная сетевая графика
+
+back - назад
